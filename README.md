@@ -3,7 +3,7 @@
 #Script For  DDOS ATTACK (Website)
 
 
-#CopyCopy And paste To Termux
+#Copy And paste To Termux
 
 git clone https://github.com/SecurityLeader/DDOS-ATTACK
 
